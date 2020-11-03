@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+  
+    "name": "5th Grade App",
+    "description": "This is a app developed by Grayson Rispoli. Who is in 5th Grade, this is his Genius Hour Project!",
+    "version": "1.0",
+    "icons": {
+      "128": "5thGradeAppIcon.png",
+      "48": "icon48.png",
+      "16": "icon16.png"
+    },
+  
+    "browser_action": {
+      "default_icon": "icon16.png",
+      "default_popup": "popup.html"
+    }
+  }
+  
